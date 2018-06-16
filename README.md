@@ -1,4 +1,4 @@
-# date-library
+# Date-library
 
 #### Php library about dates.
 
