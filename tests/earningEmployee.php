@@ -1,8 +1,8 @@
 <?php
 
-include dirname(__FILE__) . '/../FamilyDate.php';
-include dirname(__FILE__) . '/../Date.php';
-include dirname(__FILE__) . '/../Filter.php';
+include dirname(__FILE__) . '/../class/FamilyDate.php';
+include dirname(__FILE__) . '/../class/Date.php';
+include dirname(__FILE__) . '/../class/Filter.php';
 
 
 // Un mendrugo trabaja de 2016/05/20 hasta 2017/10/10,

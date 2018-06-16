@@ -1,6 +1,6 @@
 <?php
 
-include dirname(__FILE__) . '/../Convertion.php';
+include dirname(__FILE__) . '/../class/Convertion.php';
 
 function testSecondsTo()
 {

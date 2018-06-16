@@ -1,9 +1,9 @@
 <?php
 
 
-include dirname(__FILE__) . '/../Date.php';
-include dirname(__FILE__) . '/../FamilyDate.php';
-include dirname(__FILE__) . '/../Filter.php';
+include dirname(__FILE__) . '/../class/Date.php';
+include dirname(__FILE__) . '/../class/FamilyDate.php';
+include dirname(__FILE__) . '/../class/Filter.php';
 include dirname(__FILE__) . '../enum/Season.php';
 include dirname(__FILE__) . '../enum/Month.php';
 

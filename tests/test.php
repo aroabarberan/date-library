@@ -1,7 +1,7 @@
 <?php
 
-// include dirname(__FILE__) . '/../Filter.php';
-include dirname(__FILE__) . '/../Date.php';
+// include dirname(__FILE__) . '/../class/Filter.php';
+include dirname(__FILE__) . '/../class/Date.php';
 include dirname(__FILE__) . '../enum/Season.php';
 
 
